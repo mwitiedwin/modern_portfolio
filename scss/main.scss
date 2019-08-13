@@ -169,6 +169,10 @@ header {
     color: #333;
 }
 
+#contact {
+    min-height: calc(100vh - 60px);
+}
+
 #main-footer {
     text-align: center;
     padding: 1rem;
